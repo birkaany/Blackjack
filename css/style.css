@@ -650,11 +650,6 @@ video {
   border-top-right-radius: 0.5rem;
 }
 
-.bg-\[\#95f997\]{
-  --tw-bg-opacity: 1;
-  background-color: rgb(149 249 151 / var(--tw-bg-opacity));
-}
-
 .bg-th-yellow-50{
   --tw-bg-opacity: 1;
   background-color: rgb(242 232 207 / var(--tw-bg-opacity));
@@ -669,32 +664,10 @@ video {
   background-image: radial-gradient(var(--tw-gradient-stops));
 }
 
-.from-green-300{
-  --tw-gradient-from: #86efac;
-  --tw-gradient-to: rgb(134 239 172 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
 .from-\[\#95f997\]{
   --tw-gradient-from: #95f997;
   --tw-gradient-to: rgb(149 249 151 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.from-green-400{
-  --tw-gradient-from: #4ade80;
-  --tw-gradient-to: rgb(74 222 128 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.from-green-200{
-  --tw-gradient-from: #bbf7d0;
-  --tw-gradient-to: rgb(187 247 208 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
-.to-green-600{
-  --tw-gradient-to: #16a34a;
 }
 
 .to-\[\#26744b\]{
@@ -724,6 +697,11 @@ video {
   font-family: Righteous, cursive;
 }
 
+.text-6xl{
+  font-size: 3.75rem;
+  line-height: 1;
+}
+
 .text-3xl{
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -734,18 +712,13 @@ video {
   line-height: 2rem;
 }
 
-.text-6xl{
-  font-size: 3.75rem;
-  line-height: 1;
-}
-
 .font-bold{
   font-weight: 700;
 }
 
-.text-th-red-500{
+.text-green-900{
   --tw-text-opacity: 1;
-  color: rgb(188 71 73 / var(--tw-text-opacity));
+  color: rgb(20 83 45 / var(--tw-text-opacity));
 }
 
 .text-th-yellow-50{
@@ -761,16 +734,6 @@ video {
 .text-th-green-700{
   --tw-text-opacity: 1;
   color: rgb(56 102 65 / var(--tw-text-opacity));
-}
-
-.text-green-500{
-  --tw-text-opacity: 1;
-  color: rgb(34 197 94 / var(--tw-text-opacity));
-}
-
-.text-green-900{
-  --tw-text-opacity: 1;
-  color: rgb(20 83 45 / var(--tw-text-opacity));
 }
 
 .drop-shadow-md{
