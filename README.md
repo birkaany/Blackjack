@@ -77,7 +77,7 @@ Project Link: [https://github.com/birkaany/Blackjack](https://github.com/your_us
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/birkaany/blackjack?style=for-the-badge
 [stars-url]: https://github.com/birkaany/Blackjack/stargazers
 [issues-shield]: https://img.shields.io/github/stars/birkaany/blackjack?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
